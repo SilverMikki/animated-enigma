@@ -86,7 +86,7 @@ lvl_kazap = {
 '2': '700',
 }
 
-bot = Bot("1855074508:AAEFuvZkVIgZy0SB18dXRe2JK2xBV66O2eQ")
+bot = Bot("")
 dp = Dispatcher(bot)
 
 
