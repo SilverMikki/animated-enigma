@@ -1,6 +1,5 @@
 from email import message
 from fileinput import filename
-from msilib.schema import Error
 from random import randint, random
 from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
